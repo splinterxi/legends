@@ -2,9 +2,6 @@ import React from "react";
 import Card from "./Card";
 
 const CardList = ({ legends }) => {
-  if (true) {
-    throw new Error("Mess up oo");
-  }
   return (
     <div>
       {legends.map((user, i) => {
