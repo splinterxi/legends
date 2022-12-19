@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/legends/static/css/main.f31c124e.css",
-    "main.js": "/legends/static/js/main.e5e8c727.js",
+    "main.js": "/legends/static/js/main.c4ce7340.js",
     "static/media/blocktastic-itl.otf": "/legends/static/media/blocktastic-itl.a215433913464cc99959.otf",
     "index.html": "/legends/index.html",
     "main.f31c124e.css.map": "/legends/static/css/main.f31c124e.css.map",
-    "main.e5e8c727.js.map": "/legends/static/js/main.e5e8c727.js.map"
+    "main.c4ce7340.js.map": "/legends/static/js/main.c4ce7340.js.map"
   },
   "entrypoints": [
     "static/css/main.f31c124e.css",
-    "static/js/main.e5e8c727.js"
+    "static/js/main.c4ce7340.js"
   ]
 }
