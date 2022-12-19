@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Apex Font";
+  src: url("./blocktastic-itl.otf");
+}
+
+h1 {
+  font-family: "Apex font";
+  letter-spacing: 7px;
+  font-weight: 200px;
+}
+#bld {
+  width: 250px;
+  height: 150px;
+}
+
+h2,
+p {
+  color: white;
+}
+
+input {
+  color: white;
+  border: 5px;
+  border-radius: 12px;
+}
